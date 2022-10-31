@@ -1,0 +1,19 @@
+@StorePrice
+
+@attribute Items {Pen,Glass,Necklace,Rings,Watch,Shirt,Shoes,Beg,Sunglasses,Mirror}
+@attribute Value real
+@attribute Weight real
+@attribute Class {Plastic,Gold,Fabric,Leather,Plastic}
+
+@data
+Items,Value,Weight,Class
+Pen,1,1,Plastic
+Glass,1,2,Plastic
+Necklace,20,5,Gold
+Rings,12,1,Gold
+Watch,10,2,Gold
+Shirt,2,1,Fabric
+Shoes,5,2,Leather
+Beg,2,2,Leather
+Sunglasses,10,1,Plastic
+Mirror,2,5,Plastic
